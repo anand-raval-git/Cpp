@@ -15,8 +15,8 @@ class Node
     Node(int data)
     {
         this->data = data;
-        this->next =0;
-        this->prev=0;
+        this->next =NULL;
+        this->prev=NULL;
     }
 };
 void print(Node* &head)
