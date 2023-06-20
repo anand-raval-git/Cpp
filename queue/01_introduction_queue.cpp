@@ -7,7 +7,7 @@ int main()
     queue<int>q;
 
     //q is follow fifo order first in first out like when people standing outside of atm
-    //q has two part 1.front 2.rare basically element insert with rare part and remove with front par
+    //q has two part 1.front 2.rear basically element insert with rear part and remove with front par
 
 
     //insertion
